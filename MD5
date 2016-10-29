@@ -1,0 +1,9 @@
+c84e6a831d47b9f64fbc1ca0fe69ee3a *DESCRIPTION
+b9371675b8b0292fca5a62ddbe6ac492 *NAMESPACE
+78e82070f28a8aa737bf14ef21ff98f8 *R/determine_angles.R
+404ce9abd71a911b5ac7a28e3d8b5d71 *R/determine_position.R
+529faf945d3d62f641ce03ccb2bb3c13 *R/determine_region.R
+74acb4de79f79d998a73e73255b27d70 *README
+7772c9db3a90de61e94a4884c553d567 *man/determine_angles.Rd
+db9bd3fe63f6291cad1ea61c68d1aef3 *man/determine_position.Rd
+4d4677edc24c40157a0dad1f4896c4c5 *man/determine_region.Rd
